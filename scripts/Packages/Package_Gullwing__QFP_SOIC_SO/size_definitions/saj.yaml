@@ -44,7 +44,7 @@ SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.56x3.45mm:
   EP_num_paste_pads: [2, 2]
 
   thermal_vias:
-    count: [3, 4]
+    count: [2, 3]
     drill: 0.2
     # min_annular_ring: 0.15
     paste_via_clearance: 0.1
@@ -52,7 +52,7 @@ SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.56x3.45mm:
     # paste_between_vias: 1
     # paste_rings_outside: 1
     EP_paste_coverage: 0.7
-    grid: [1.0, 1.0]
+    grid: [1.4, 1.0]
     # bottom_pad_size:
     paste_avoid_via: False
     
